@@ -6,6 +6,10 @@ Kiskegyed Legjobb weblap verseny dobogós 2025
 
 A Kód, hét pecsétes titok
 
+
+A zseni videó: https://www.youtube.com/watch?v=lDv3kusr3dU
+
+
 <!DOCTYPE html>
 <html lang="hu">
 <head>
